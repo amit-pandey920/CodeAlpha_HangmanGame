@@ -36,7 +36,7 @@ The player has to guess a randomly selected word one letter at a time. The playe
 4. Run the following command:
 
 ```bash
-python hangman.py
+python Hangman.py
 ```
 
 ## Sample Gameplay
@@ -59,7 +59,7 @@ Wrong!
 ```text
 CodeAlpha_HangmanGame/
 │
-├── hangman.py
+├── Hangman.py
 ├── README.md
 └── .gitignore
 ```
